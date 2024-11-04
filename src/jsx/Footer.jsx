@@ -15,10 +15,10 @@ function Footer() {
         <div className="footer_elements">
           <div className="footer_element footer_element_1">
             <div className="footer_content anchor_videos" id="anchor_videos">
-              {/* <h3>Watch the videos</h3>
+              <h3>Watch the videos</h3>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/PLzwchtLJSk" title="Least Developed Countries Report 2024" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
-              </div> */}
+                <iframe src="https://www.youtube.com/embed/FUjROAZ4nCQ" title="Least Developed Countries Report 2024" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+              </div>
               {/* <ul>
                 <li>
                   <a href="#download" target="_blank" rel="noreferrer">Français</a>
@@ -42,10 +42,11 @@ function Footer() {
                   <a href="#download" target="_blank" rel="noreferrer">Deutsch</a>
                 </li>
               </ul> */}
-              {/* <h4>Download the report video</h4>
+              <h4>Download the report video</h4>
               <ul>
                 <li>
-                  <a href="https://vimeo.com/1022047383" target="_blank" rel="noreferrer">English</a>
+                  <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6728f4f27dd92eb8a8b699f8/download/LDC_2024_-_English.mp4" target="_blank" rel="noreferrer">English</a>
+                  {/*
                   {', '}
                   <a href="#download" target="_blank" rel="noreferrer">Français</a>
                   {', '}
@@ -66,24 +67,25 @@ function Footer() {
                   <a href="#download" target="_blank" rel="noreferrer">Hindi हिंदी</a>
                   {', '}
                   <a href="#download" target="_blank" rel="noreferrer">Deutsch</a>
+                  */}
                 </li>
-              </ul> */}
-              {/* <h4>Watch the press conference</h4>
+              </ul>
+              <h4>Watch the press conference</h4>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/AYD39tO7VGM" title="Least Developed Countries Report 2024 press conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
-              </div> */}
-              {/* <h4>Media assets</h4>
+                <iframe src="https://www.youtube.com/embed/hbg5Dq7lwIA" title="Least Developed Countries Report 2024 press conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+              </div>
+              <h4>Media assets</h4>
               <ul>
                 <li>
-                  <a href="#download" target="_blank" rel="noreferrer">Press conference</a>
+                  <a href="https://www.unognewsroom.org/story/en/2410/unctad-press-conference-4-november-2024" target="_blank" rel="noreferrer">Press conference</a>
                 </li>
                 <li>
-                  <a href="#download" target="_blank" rel="noreferrer">Photos</a>
+                  <a href="https://www.flickr.com/photos/unctad/albums/72177720321695951/" target="_blank" rel="noreferrer">Photos</a>
                 </li>
                 <li>
-                  <a href="#download" target="_blank" rel="noreferrer">Audio and other assets</a>
+                  <a href="https://trello.com/b/XRgaVGUw/the-least-developed-countries-report-2024" target="_blank" rel="noreferrer">All digital assets</a>
                 </li>
-              </ul> */}
+              </ul>
             </div>
             <div className="footer_content anchor_podcasts" id="anchor_podcasts">
               <h3>Podcasts</h3>
