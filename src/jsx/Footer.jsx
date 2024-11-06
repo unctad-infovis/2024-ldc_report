@@ -19,55 +19,42 @@ function Footer() {
               <div className="iframe_container youtube_iframe">
                 <iframe src="https://www.youtube.com/embed/FUjROAZ4nCQ" title="Least Developed Countries Report 2024" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
               </div>
-              {/* <ul>
+               <ul>
                 <li>
-                  <a href="#download" target="_blank" rel="noreferrer">Français</a>
+                  <a href="https://youtu.be/jMqIcUS491s" target="_blank" rel="noreferrer">Français</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Español</a>
+                  <a href="https://youtu.be/x7mkOu0Z56M" target="_blank" rel="noreferrer">Español</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">العربية</a>
+                  <a href="https://youtu.be/nbGS6PvcUGQ" target="_blank" rel="noreferrer">العربية</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">简体中文</a>
+                  <a href="https://youtu.be/UKLyz2sK5ng" target="_blank" rel="noreferrer">简体中文</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Русский</a>
+                  <a href="https://youtu.be/dOARKYaHk5o" target="_blank" rel="noreferrer">Русский</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Português</a>
+                  <a href="https://youtu.be/VqA_h6X2Z_E" target="_blank" rel="noreferrer">Português</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Kiswahili</a>
-                  {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Urdu اردو</a>
-                  {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Hindi हिंदी</a>
-                  {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Deutsch</a>
+                  <a href="https://youtu.be/CGo7_DM3lgQ" target="_blank" rel="noreferrer">Kiswahili</a>
                 </li>
-              </ul> */}
+              </ul> 
               <h4>Download the report video</h4>
               <ul>
                 <li>
                   <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6728f4f27dd92eb8a8b699f8/download/LDC_2024_-_English.mp4" target="_blank" rel="noreferrer">English</a>
-                  {/*
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Français</a>
+                  <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6728f4fe06ef8840bb787357/download/LDC_2024_-_French.mp4" target="_blank" rel="noreferrer">Français</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Español</a>
+                  <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6728f51e2c11ffaa7ddd10fe/download/LDC_2024_-_Spanish.mp4" target="_blank" rel="noreferrer">Español</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">العربية</a>
+                  <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/672a600343e01d3643076784/download/LDC_2024_Arabic.mp4" target="_blank" rel="noreferrer">العربية</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">简体中文</a>
+                  <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6728f4e7195462ae333b2d00/download/LDC_2024_-_Chinese.mp4" target="_blank" rel="noreferrer">简体中文</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Русский</a>
+                  <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6728f513fe96f01aed3bf71d/download/LDC_2024_-_Russian.mp4" target="_blank" rel="noreferrer">Русский</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Português</a>
+                  <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6728f5088d631862473735e3/download/LDC_2024_-_Portuguese.mp4" target="_blank" rel="noreferrer">Português</a>
                   {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Kiswahili</a>
-                  {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Urdu اردو</a>
-                  {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Hindi हिंदी</a>
-                  {', '}
-                  <a href="#download" target="_blank" rel="noreferrer">Deutsch</a>
-                  */}
+                  <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6729091b0f565ead1e7f54cf/download/LDC_2024_-_Kiswahili.mp4" target="_blank" rel="noreferrer">Kiswahili</a>
+                  
                 </li>
               </ul>
               <h4>Watch the press conference</h4>
