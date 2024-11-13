@@ -19,7 +19,7 @@ function Footer() {
               <div className="iframe_container youtube_iframe">
                 <iframe src="https://www.youtube.com/embed/FUjROAZ4nCQ" title="Least Developed Countries Report 2024" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
               </div>
-               <ul>
+              <ul>
                 <li>
                   <a href="https://youtu.be/jMqIcUS491s" target="_blank" rel="noreferrer">Français</a>
                   {', '}
@@ -35,7 +35,7 @@ function Footer() {
                   {', '}
                   <a href="https://youtu.be/CGo7_DM3lgQ" target="_blank" rel="noreferrer">Kiswahili</a>
                 </li>
-              </ul> 
+              </ul>
               <h4>Download the report video</h4>
               <ul>
                 <li>
@@ -54,7 +54,7 @@ function Footer() {
                   <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6728f5088d631862473735e3/download/LDC_2024_-_Portuguese.mp4" target="_blank" rel="noreferrer">Português</a>
                   {', '}
                   <a href="https://trello.com/1/cards/6727d6c8aeba1792171a3a21/attachments/6729091b0f565ead1e7f54cf/download/LDC_2024_-_Kiswahili.mp4" target="_blank" rel="noreferrer">Kiswahili</a>
-                  
+
                 </li>
               </ul>
               <h4>Watch the press conference</h4>
