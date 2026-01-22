@@ -17,7 +17,7 @@ function Footer() {
             <div className="footer_content anchor_videos" id="anchor_videos">
               <h3>Watch the videos</h3>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/FUjROAZ4nCQ" title="Least Developed Countries Report 2024" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                <iframe src="https://www.youtube.com/embed/FUjROAZ4nCQ" title="Least Developed Countries Report 2024" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen />
               </div>
               <ul>
                 <li>
@@ -59,7 +59,7 @@ function Footer() {
               </ul>
               <h4>Watch the press conference</h4>
               <div className="iframe_container youtube_iframe">
-                <iframe src="https://www.youtube.com/embed/hbg5Dq7lwIA" title="Least Developed Countries Report 2024 press conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen />
+                <iframe src="https://www.youtube.com/embed/hbg5Dq7lwIA" title="Least Developed Countries Report 2024 press conference" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen />
               </div>
               <h4>Media assets</h4>
               <ul>
